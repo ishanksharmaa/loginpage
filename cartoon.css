@@ -4,11 +4,11 @@
 }
 
 body{
-    background-image: url("mayuri\ shadow.gif");
+/*     background-image: url("mayuri\ shadow.gif"); */
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url("steins.gif");
-    /* background-image: url("allchar.gif"); */
+/*     background-image: url("steins.gif"); */
+    background-image: url("allchar.gif");
     /* background-image: url("eye.gif"); */
 }
 
